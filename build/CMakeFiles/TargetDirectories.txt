@@ -1,0 +1,5 @@
+/home/agarcia/code/robotic_head/trunk/build/CMakeFiles/distclean.dir
+/home/agarcia/code/robotic_head/trunk/build/CMakeFiles/doc.dir
+/home/agarcia/code/robotic_head/trunk/build/src/CMakeFiles/robohead.dir
+/home/agarcia/code/robotic_head/trunk/build/src/examples/CMakeFiles/robohead_test.dir
+/home/agarcia/code/robotic_head/trunk/build/CMakeFiles/uninstall.dir

@@ -1,0 +1,5 @@
+<map id="visual_analysis::get_img" name="visual_analysis::get_img">
+<area shape="rect" id="node2" href="$classCRobohead.html#a88a2b27a78b0559a9a6840b55706803f" title="The head will follow an orange ball, used in testing. " alt="" coords="223,5,383,32"/>
+<area shape="rect" id="node3" href="$classCRobohead.html#ae3bcf299e36192a231ba5ca5a071fdaf" title="The head will follow a specific colour It follows a color given range of it in HSV system..." alt="" coords="219,56,387,83"/>
+<area shape="rect" id="node4" href="$classCRobohead.html#ab83ecd7a48ed8d2da10b650e3775d989" title="The head will follow the biggest face that visual_analysis is able to find. " alt="" coords="220,107,385,133"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="mechanical::set_default_speed" name="mechanical::set_default_speed">
+<area shape="rect" id="node2" href="$classCRobohead.html#ae50221bd4512272e4bb6c4117acf7510" title="Main constructor of the robohead class It configures other objects such as mechanical, visual_analysis and face ones. " alt="" coords="213,12,381,39"/>
+</map>

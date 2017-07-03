@@ -1,0 +1,8 @@
+<map id="face::expression" name="face::expression">
+<area shape="rect" id="node2" href="$classCRobohead.html#aaabc1257c1068ff775e77e0a32987e00" title="The face shows an expression. " alt="" coords="173,5,336,32"/>
+<area shape="rect" id="node3" href="$classface.html#aa9b391544a2983f2890ea7a0373bf702" title="Main constructor of the face class. It sets some variables from the class, and while loading..." alt="" coords="215,56,295,83"/>
+<area shape="rect" id="node4" href="$classface.html#ac0c2a45bbbaa788b7903f233aaf2dfa6" title="It moves the eyes according to coordinates given from the screen. " alt="" coords="210,107,299,133"/>
+<area shape="rect" id="node5" href="$classCRobohead.html#a88a2b27a78b0559a9a6840b55706803f" title="The head will follow an orange ball, used in testing. " alt="" coords="388,56,548,83"/>
+<area shape="rect" id="node6" href="$classCRobohead.html#ae3bcf299e36192a231ba5ca5a071fdaf" title="The head will follow a specific colour It follows a color given range of it in HSV system..." alt="" coords="384,107,552,133"/>
+<area shape="rect" id="node7" href="$classCRobohead.html#ab83ecd7a48ed8d2da10b650e3775d989" title="The head will follow the biggest face that visual_analysis is able to find. " alt="" coords="385,157,551,184"/>
+</map>

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agarcia/code/robotic_head/trunk/src/eye.h
+iostream
+-
+math.h
+-
+
+/home/agarcia/code/robotic_head/trunk/src/eyebrow.h
+iostream
+-
+
+/home/agarcia/code/robotic_head/trunk/src/face.cpp
+iostream
+-
+math.h
+-
+opencv2/core/core.hpp
+/home/agarcia/code/robotic_head/trunk/src/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/home/agarcia/code/robotic_head/trunk/src/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/agarcia/code/robotic_head/trunk/src/opencv2/imgproc/imgproc.hpp
+face.h
+/home/agarcia/code/robotic_head/trunk/src/face.h
+
+/home/agarcia/code/robotic_head/trunk/src/face.h
+eye.h
+/home/agarcia/code/robotic_head/trunk/src/eye.h
+eyebrow.h
+/home/agarcia/code/robotic_head/trunk/src/eyebrow.h
+opencv2/core/core.hpp
+/home/agarcia/code/robotic_head/trunk/src/opencv2/core/core.hpp
+opencv2/highgui/highgui.hpp
+/home/agarcia/code/robotic_head/trunk/src/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/agarcia/code/robotic_head/trunk/src/opencv2/imgproc/imgproc.hpp
+

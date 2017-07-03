@@ -1,0 +1,6 @@
+<map id="CRobohead::follow_color" name="CRobohead::follow_color">
+<area shape="rect" id="node2" href="$classface.html#ac0c2a45bbbaa788b7903f233aaf2dfa6" title="It moves the eyes according to coordinates given from the screen. " alt="" coords="259,5,349,32"/>
+<area shape="rect" id="node4" href="$classvisual__analysis.html#aeff98474b39dadbed142f458933b4c5d" title="It searches for a specific color in the image Given the image and the range of colors to search in HS..." alt="" coords="235,57,373,98"/>
+<area shape="rect" id="node5" href="$classvisual__analysis.html#a40c688976aecfee05b41910701d60233" title="It fills a matrix with the data obtined form a captured frame. " alt="" coords="221,123,387,149"/>
+<area shape="rect" id="node3" href="$classface.html#a3b63ab44d10d55b2d7011f9b30162a03" title="The face shows an expression. " alt="" coords="435,5,554,32"/>
+</map>
